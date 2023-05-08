@@ -2,8 +2,18 @@
 title: The Consultant's Grain
 ---
 
-Hello world.
+{% include head.html %}
 
-{% for chapter in site.chapters %}
-<a href="{{chapter.url}}">{{chapter.title}}</a>
-{% endfor %}
+{% include nav.html %}
+
+<div class="flex flex-wrap">
+<div class="w-30">
+The Consultant's Grain
+</div>
+<div class="w-70">
+  {% for chapter in site.chapters %}
+  <a href="{{chapter.url}}">{{chapter.title}}</a>
+  {% endfor %}
+</div>
+</div>
+
