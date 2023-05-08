@@ -4,6 +4,6 @@ title: The Consultant's Grain
 
 Hello world.
 
-{% for post in site.chapters %}
-<a href="{{page.url}}">{{page.title}}</a>
+{% for chapter in site.chapters %}
+<a href="{{chapter.url}}">{{chapter.title}}</a>
 {% endfor %}
