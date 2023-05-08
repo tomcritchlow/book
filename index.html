@@ -4,16 +4,19 @@ title: The Consultant's Grain
 
 {% include head.html %}
 
-{% include nav.html %}
+<div class="container mw7 w-100 ph0-l ph3 center relative mv5">
+
 
 <div class="flex flex-wrap">
 <div class="w-30">
-The Consultant's Grain
+<img src="https://tomcritchlow.com/images/tsi-cover-sep-2021.png"/>
 </div>
 <div class="w-70">
+  <h2>The Consultant's Grain</h2>
   {% for chapter in site.chapters %}
   <a href="{{chapter.url}}">{{chapter.title}}</a>
   {% endfor %}
 </div>
 </div>
 
+</div>
