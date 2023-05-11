@@ -1,8 +1,27 @@
 <div class="w-100 center pa3 bb b--black-10">
-  <div class="mw9 ph5-l flex justify-between">
+  <div class="mw9 ph5-l flex justify-between items-center">
 
-    <div>The Strategic Independent</div>
+    <div><a class="link black" href="/">The Strategic Independent</a></div>
 
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAaElEQVR4nO3VQQqAIBCG0f/+x0o8l+0LhyCKjPdgFoKbQeFLAKDUk4zDtCxoTOakFZffnlYsMjt/cpHtziK/+Vpf1y6+HLC4ruxR9ih7QdmBtXRlj7JH2QvKDqylK3uUPcpeUHYA8pQdpmGW8EWJxJUAAAAASUVORK5CYII=">
+    <a href="#" onclick="showNav()"><img class="h2" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAaElEQVR4nO3VQQqAIBCG0f/+x0o8l+0LhyCKjPdgFoKbQeFLAKDUk4zDtCxoTOakFZffnlYsMjt/cpHtziK/+Vpf1y6+HLC4ruxR9ih7QdmBtXRlj7JH2QvKDqylK3uUPcpeUHYA8pQdpmGW8EWJxJUAAAAASUVORK5CYII="></a>
   </div>
 </div>
+
+<div class="dn absolute right-3 top-3 ba br2 b--black-10" id="chapternav">
+  {% for chapter in site.chapters %}
+  <div class="pv2">
+    <a href="{{chapter.url}}">{{chapter.title}}</a>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  showNav(){
+    var x = document.getElementById("chapternav");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+  }
+</script>
