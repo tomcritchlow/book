@@ -11,7 +11,7 @@ title: The Consultant's Grain
 
 <div class="flex flex-wrap">
 <div class="w-40-l w-100 pr3-l center relative">
-  <div class="fixed">
+  <div class="fixed-l">
 <img class="w5" src="https://tomcritchlow.com/images/tsi-cover-sep-2021.png"/>
 <div>Read online</div>
 <div>About</div>
@@ -19,17 +19,10 @@ title: The Consultant's Grain
 <div>Get updates</div>
 </div>
 </div>
-<div class="w-60-l w-100 pl3">
+<div class="w-60-l w-100 pl3-l">
   <h2>The Consultant's Grain</h2>
   
-  {% for section in site.data.structure %}
-  <h2>{{section.title}}</h2>
-  <ul class="list pl0 ml0 center ba b--light-silver br3">
-  {% for chapter in section.chapters %}
-    <a href="{{chapter.url}}"><li class="ph3 pv2 bb b--light-silver bg-animate hover-bg-washed-green">{{chapter.title}}</li></a>
-  {% endfor %}
-</ul>
-  {% endfor %}
+  {% include chapters.html %}
   
 </div>
 </div>

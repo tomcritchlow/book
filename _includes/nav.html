@@ -11,12 +11,8 @@
   <h3>The Strategic Independent</h3>
   <div>Tom Critchlow</div>
   <img class="w4" src="https://tomcritchlow.com/images/tsi-cover-sep-2021.png"/>
-  <a href="/">Index</a>
-  {% for chapter in site.chapters %}
-  <div class="pv2 bb b--black-10">
-    <a href="{{chapter.url}}">{{chapter.title}}</a>
-  </div>
-  {% endfor %}
+  {% include chapters.html %}
+  
 </div>
 
 <style>
