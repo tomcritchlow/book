@@ -1,8 +1,15 @@
 {% assign chapter_array = "" | split: ',' %}
+{% assign titles_array = "" | split: ',' %}
 
 {% for section in site.data.structure %}
   {% for chapter in section.chapters %}
     {% assign chapter_array = chapter_array | push: chapter.url %} 
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.structure %}
+  {% for chapter in section.chapters %}
+    {% assign titles_array = titles_array | push: chapter.title %} 
   {% endfor %}
 {% endfor %}
 
@@ -28,8 +35,18 @@
 {{content}}
 
 
+<div class="bt b--black-10 pa2">
+    <div class="flex flex-wrap">
+        <div>
+            Next:
+            <br>{{titles_array[next]}
+        </div>
+        <div class="">
+            <a href="{{chapter_array[next]}}">Next</a>
+        </div>
+    </div>
+    
+</div>
 
-{{next}}
-{{chapter_array[next]}}
 
 </div>
