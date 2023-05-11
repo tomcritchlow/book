@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: tsi-chapter
 title: High Fidelity Consulting
 subtitle: Ideas without details and details without ideas are both risky
 tags: strategy

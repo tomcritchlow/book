@@ -1,7 +1,7 @@
 ---
 title: A map for indie living
 subtitle: Phase by phase, one foot in front of the other
-layout: blog
+layout: tsi-chapter
 ---
 
 I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit and they're trying to figure it out.

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: tsi-chapter
 title: The Indie Consulting Business Model Canvas V0.1
 subtitle: A way of thinking about your practice
 ---
