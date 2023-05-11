@@ -3,3 +3,46 @@ html{
   font-smoothing: initial;
   font-family:Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
+
+.container{
+  font-family:Palatino;
+  
+}
+
+.container p, .container ul, .container ol, .container li{
+  font-family:Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  line-height:28px !important;
+  font-size:19px;
+}
+
+.container table{
+  display: block;
+    width: 100%;
+    overflow-x: auto;
+    border: none;
+    padding: 0px;
+}
+
+.container table, .container td, .container th {
+  border-collapse: collapse;
+  vertical-align:top;
+  text-align:left;
+  padding:5px;
+}
+
+.container td, .container th {
+  border: 1px solid black;
+}
+
+.container th { 
+   background: #d9ead3; 
+}
+
+.example{
+  background-color: lightgoldenrodyellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    border: 1px solid #ECEAC8;
+    border-radius: 5px;
+}
