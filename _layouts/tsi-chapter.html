@@ -1,3 +1,35 @@
+{% assign chapter_array = "" | split: ',' %}
+{% assign titles_array = "" | split: ',' %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url%}
+      {% assign chapter_array = chapter_array | push: chapter.url %} 
+      {% if chapter.url == page.url %}
+        {% assign page_section = section.title %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for section in site.data.chapters %}
+  {% for chapter in section.chapters %}
+    {% if chapter.url %}  
+      {% assign titles_array = titles_array | push: chapter.title %} 
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+{% for item in chapter_array %}
+  {% if item == page_url_full %}
+    {% assign position = forloop.index0 %}
+    {% assign previous = position | minus:1 %}
+    {% assign next = position | plus:1 %}
+    {% break %} 
+  {% endif %}
+{% endfor %}
+
 {% include head.html %}
 
 {% include nav.html %}
@@ -8,5 +40,7 @@
 <h2>{{page.subtitle}}</h2>
 
 {{content}}
+
+{{next}}
 
 </div>
