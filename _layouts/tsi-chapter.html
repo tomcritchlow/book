@@ -1,34 +1,20 @@
 {% assign chapter_array = "" | split: ',' %}
-{% assign titles_array = "" | split: ',' %}
 
 {% for section in site.data.structure %}
   {% for chapter in section.chapters %}
-    {% if chapter.url%}
-      {% assign chapter_array = chapter_array | push: chapter.url %} 
-      {% if chapter.url == page.url %}
-        {% assign page_section = section.title %}
-      {% endif %}
-    {% endif %}
+    {% assign chapter_array = chapter_array | push: chapter.url %} 
   {% endfor %}
 {% endfor %}
-
-{% for section in site.data.structure %}
-  {% for chapter in section.chapters %}
-    {% if chapter.url %}  
-      {% assign titles_array = titles_array | push: chapter.title %} 
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
 
 {% for item in chapter_array %}
-  {% if item == page_url_full %}
+  {% if item == page.url %}
     {% assign position = forloop.index0 %}
     {% assign previous = position | minus:1 %}
     {% assign next = position | plus:1 %}
     {% break %} 
   {% endif %}
 {% endfor %}
+
 
 {% include head.html %}
 
@@ -42,5 +28,6 @@
 {{content}}
 
 {{next}}
+{{chapter_array[next]}}
 
 </div>
