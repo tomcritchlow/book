@@ -13,6 +13,14 @@ title: The Consultant's Grain
 </div>
 <div class="w-60 pl3">
   <h2>The Consultant's Grain</h2>
+  
+  {% for section in site.data.structure %}
+  {% for chapter in section.chapters %}
+  {{chapter.url}}
+  {% endfor %}
+  {% endfor %}
+  
+  
   {% for chapter in site.chapters %}
   <div class="pv2">
     <a href="{{chapter.url}}">{{chapter.title}}</a>
