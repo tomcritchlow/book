@@ -4,6 +4,8 @@ title: The Consultant's Grain
 
 {% include head.html %}
 
+{% include nav.html %}
+
 <div class="container mw8 w-100 ph5-l ph3 center relative mv5">
 
 
@@ -15,18 +17,12 @@ title: The Consultant's Grain
   <h2>The Consultant's Grain</h2>
   
   {% for section in site.data.structure %}
+  <h2>{{section.title}}</h2>
   {% for chapter in section.chapters %}
-  {{chapter.url}}
+  <div class="pv2 bt bb b--black-10"><a href="{{chapter.url}}">{{chapter.title}}</a></div>
   {% endfor %}
   {% endfor %}
   
-  
-  {% for chapter in site.chapters %}
-  <div class="pv2">
-    <a href="{{chapter.url}}">{{chapter.title}}</a>
-  </div>
-  
-  {% endfor %}
 </div>
 </div>
 
