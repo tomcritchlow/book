@@ -1,4 +1,4 @@
-<div class="w-100 center pa3 bb b--black-10">
+<div class="w-100 center pa2 bb b--black-10 fixed">
   <div class="mw9 ph5-l flex justify-between items-center">
 
     <div><a class="link black" href="/">The Strategic Independent</a></div>
@@ -7,9 +7,13 @@
   </div>
 </div>
 
-<div class="dn absolute right-2 ba br3 b--black-10 bg-white shadow-5 pa3" id="chapternav">
+<div class="dn absolute right-2 ba br3 b--black-10 bg-white shadow-5 pa4 z-1 mw6" id="chapternav">
+  <h3>The Strategic Independent</h3>
+  <div>Tom Critchlow</div>
+  <img class="w4" src="https://tomcritchlow.com/images/tsi-cover-sep-2021.png"/>
+  <a href="/">Index</a>
   {% for chapter in site.chapters %}
-  <div class="pv2">
+  <div class="pv2 bb b--black-10">
     <a href="{{chapter.url}}">{{chapter.title}}</a>
   </div>
   {% endfor %}
@@ -18,10 +22,11 @@
 <script>
   function showNav() {
     var x = document.getElementById("chapternav");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-  };
+    var display = window.getComputedStyle(x).display;
+    if (display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
 </script>
