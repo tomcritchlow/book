@@ -1,0 +1,7 @@
+@media print {
+    /* Your styles here. For example: */
+    body {
+        font-family: 'Times New Roman', serif;
+        color: black;
+    }
+}
