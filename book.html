@@ -5,18 +5,28 @@ layout: book
 
 <h1>The Consultant's Grain</h1>
 
-{% for page in site.chapters %}
-{{page.url}}
-{% endfor %}
 
 {% for section in site.data.structure %}
-    {% for essay in section.chapters %}
-        {{essay.url}}
-        {% assign post = site.chapters | where: "url", essay.url  | first %}
+<section>
 
-        {{post.content}}
+{% for essay in section.chapters %}
+{{essay.url}}
+{% assign post = site.chapters | where: "url", essay.url  | first %}
 
-    {% endfor %}
+<chapter>
+<h2>{{post.title}}</h2>
+<h3>{{post.subtitle}}</h3>
+{{post.content}}
+</chapter>
+
+
+
+
+
+
+{% endfor %}
+
+</section>
 {% endfor %}
 
 

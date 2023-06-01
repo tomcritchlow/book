@@ -11,6 +11,9 @@ content: counter(page);
 }
 }
 
+section, chapter{
+    break-before: right;
+}
 
 img { max-width: 100% }
 
