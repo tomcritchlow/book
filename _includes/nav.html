@@ -1,6 +1,7 @@
 {% for section in site.data.structure %}
   {% for chapter in section.chapters %}
     {% if page.url == chapter.url %}
+      {% assign pagesection = section.title %}
       {% assign pagechapter = chapter.title %}
     {% endif %}
   {% endfor %}
@@ -11,7 +12,11 @@
 
     <div class="w-20"><a class="link black" href="/">The Strategic Independent</a></div>
 
-    <div>{{pagechapter}}</div>
+    <div>
+      <div class="f4 b">{{pagesection}}</div>
+      <div class="f4">{{pagechapter}}</div>
+      
+      </div>
 
     <div class="w-20"><a href="#" onclick="showNav()"><img class="h2" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAaElEQVR4nO3VQQqAIBCG0f/+x0o8l+0LhyCKjPdgFoKbQeFLAKDUk4zDtCxoTOakFZffnlYsMjt/cpHtziK/+Vpf1y6+HLC4ruxR9ih7QdmBtXRlj7JH2QvKDqylK3uUPcpeUHYA8pQdpmGW8EWJxJUAAAAASUVORK5CYII="></a></div>
   </div>
