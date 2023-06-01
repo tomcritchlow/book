@@ -9,8 +9,11 @@ layout: book
 {% for section in site.data.structure %}
 <section>
 
+<h1>{{section.title}}</h1>
+<div>{{section.blurb}}</div>
+
 {% for essay in section.chapters %}
-{{essay.url}}
+
 {% assign post = site.chapters | where: "url", essay.url  | first %}
 
 <chapter>
