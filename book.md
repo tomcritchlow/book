@@ -9,6 +9,22 @@
 
 <body>
 
+<style>
+@page {
+    size: 148mm 210mm;
+    margin-top: 20mm;
+    margin-bottom: 20mm;
+    bleed: 6mm; 
+    marks: crop;
+    @bottom-center{
+        content: counter(page);
+    }
+}  
+
+img { max-width: 100% }
+
+</style>
+
 {% for section in site.data.structure %}
     {% for chapter in section %}
         
