@@ -76,4 +76,13 @@
     - url: 
       title: Compound Narrative (draft)
       subtitle: How to create a narrative arc through your career as an independent
+ - title: Appendix
+   blurb: Notes, references and further reading
+   chapters:
+    - url: /chapters/concepts/
+      title: Concepts
+      subtitle: Core concepts introduced in the book
+    - url: /chapters/references/
+      title: References & Further Reading
+      subtitle: Links, references and further reading
     
