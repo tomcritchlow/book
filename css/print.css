@@ -11,8 +11,20 @@ content: counter(page);
 }
 }
 
-section, chapter{
+section {
+    break-before: left;
+}
+
+section {
     break-before: right;
+}
+
+.chaptertitle{
+    font-size:45px;
+}
+
+.chapterintro{
+    font-size:24px;
 }
 
 img { max-width: 100% }
