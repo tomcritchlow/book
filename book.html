@@ -10,9 +10,9 @@ layout: book
 {% endfor %}
 
 {% for section in site.data.structure %}
-    {% for chapter in section %}
+    {% for essay in section %}
         
-        {% assign post = site.chapters | where: "url", "/chapters/the-fool/"  | first %}
+        {% assign post = site.chapters | where: "url", essay.url  | first %}
 
         {{post.content}}
 
