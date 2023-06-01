@@ -19,9 +19,13 @@ title: Book PDF
     margin-bottom: 20mm;
     bleed: 6mm; 
     marks: crop;
-    @bottom-center{ content: counter(page) };
 }  
 
+@page {
+  @bottom-left {
+    content: counter(page);
+  }
+}
 
 
 img { max-width: 100% }
