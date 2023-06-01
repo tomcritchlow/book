@@ -2,7 +2,8 @@
 ---
 <head>
     <link href="/css/print.css" rel="stylesheet" type="text/css" />
-<script src="https://unpkg.com/pagedjs/dist/paged.js"></script>    
+    <script src="https://unpkg.com/pagedjs@0.4.1/dist/paged.polyfill.js"></script>
+
 </head>
 
 <body>
@@ -17,14 +18,6 @@
     {% endfor %}
 {% endfor %}
 
-
-
-<script>
-let paged = new Previewer();
-let flow = paged.preview(DOMContent, ["/css/print.css"], document.body).then((flow) => {
-	console.log("Rendered", flow.total, "pages.");
-})
-</script>
 
 <!-->
 Seems relevant and useful: https://www.edrlab.org/public/slides/dps2019/DPS-s6-1-Blanc.pdf
