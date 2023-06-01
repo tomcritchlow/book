@@ -11,7 +11,7 @@ layout: book
 
 {% for section in site.data.structure %}
     {% for essay in section %}
-        
+        {{essay.url}}
         {% assign post = site.chapters | where: "url", essay.url  | first %}
 
         {{post.content}}
