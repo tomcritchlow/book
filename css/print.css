@@ -4,4 +4,13 @@
         font-family: 'Times New Roman', serif;
         color: black;
     }
+
+@page{
+    size: 148mm 210mm;
+    margin-top: 54mm;
+    margin-bottom: 80mm;
+    margin-left: 20mm;
+    margin-right: 20mm;
+}
+
 }
