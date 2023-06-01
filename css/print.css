@@ -1,3 +1,8 @@
+.sectiontitle{
+    font-size:45px;
+    string-set: sectiontitle content(text);
+}
+
 
 @page {
     size: 6in 9in;
@@ -7,7 +12,7 @@
 
 @page:left {
     @top-center {
-        content: string(sectiontitle);
+    content: string(sectiontitle);
         };
     @bottom-left {
     content: counter(page);
@@ -16,7 +21,7 @@
 
 @page:right {
     @top-center {
-        content: string(chaptertitle);
+    content: string(chaptertitle);
         };
     @bottom-right {
     content: counter(page);
@@ -37,10 +42,7 @@ chapter {
     break-before: right;
 }
 
-.sectiontitle{
-    font-size:45px;
-    string-set: sectiontitle content(text);
-}
+
 
 .sectionintro{
     font-size:24px;
