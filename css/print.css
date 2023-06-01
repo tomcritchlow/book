@@ -1,14 +1,20 @@
 
 @page {
-size: 6in 9in;
-bleed: 6mm; 
-marks: crop;
+    size: 6in 9in;
+    bleed: 6mm; 
+    marks: crop;
 }  
 
-@page {
-@bottom-left {
-content: counter(page);
+@page:left {
+    @bottom-left {
+    content: counter(page);
+    }
 }
+
+@page:right {
+    @bottom-right {
+    content: counter(page);
+    }
 }
 
 section {
@@ -19,11 +25,11 @@ section {
     break-before: right;
 }
 
-.chaptertitle{
+.sectiontitle{
     font-size:45px;
 }
 
-.chapterintro{
+.sectionintro{
     font-size:24px;
 }
 
