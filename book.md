@@ -2,7 +2,7 @@
 ---
 <head>
     <link href="/css/print.css" rel="stylesheet" type="text/css" />
-    
+<script src="https://unpkg.com/pagedjs/dist/paged.js"></script>    
 </head>
 
 <body>
@@ -17,7 +17,7 @@
     {% endfor %}
 {% endfor %}
 
-<script src="https://unpkg.com/pagedjs/dist/paged.js"></script>
+
 
 <script>
 let paged = new Previewer();
