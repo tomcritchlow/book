@@ -2,11 +2,12 @@
 title: Book PDF
 layout: book
 ---
-    
 
+<h1>The Consultant's Grain</h1>
 
-
-
+{% for page in site.chapters %}
+{{page.url}}
+{% endfor %}
 
 {% for section in site.data.structure %}
     {% for chapter in section %}
