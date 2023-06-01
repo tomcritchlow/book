@@ -1,16 +1,16 @@
 @media print {
-    /* Your styles here. For example: */
-    body {
-        font-family: 'Times New Roman', serif;
-        color: black;
-    }
 
-@page{
-    size: 148mm 210mm;
-    margin-top: 54mm;
-    margin-bottom: 80mm;
-    margin-left: 20mm;
-    margin-right: 20mm;
-}
+    @page {
+        size: 148mm 210mm;
+        margin-top: 20mm;
+        margin-bottom: 20mm;
+        bleed: 6mm; 
+        marks: crop;
+        @bottom-center{
+            content: counter(page);
+        }
+    }  
 
-}
+    img { max-width: 100% }
+
+} 
