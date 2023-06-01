@@ -1,9 +1,9 @@
 {% for section in site.data.structure %}
-{% for chapter in section.chapters %}
-{% if page.url = chapter.url %}
-{% assign pagechapter = chapter.title %}
-{% endif %}
-{% endfor %}
+  {% for chapter in section.chapters %}
+    {% if page.url == chapter.url %}
+      {% assign pagechapter = chapter.title %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 <div class="w-100 center pa2 bb b--black-10 sticky bg-white z-1">
