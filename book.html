@@ -10,7 +10,7 @@ layout: book
 {% endfor %}
 
 {% for section in site.data.structure %}
-    {% for essay in section %}
+    {% for essay in section.chapters %}
         {{essay.url}}
         {% assign post = site.chapters | where: "url", essay.url  | first %}
 
