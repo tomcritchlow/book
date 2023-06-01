@@ -11,7 +11,7 @@
 
 <style>
 @page {
-    size: A4;
+    size: A2;
     margin-top: 20mm;
     margin-bottom: 20mm;
     bleed: 6mm; 
