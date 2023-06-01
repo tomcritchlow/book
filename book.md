@@ -38,6 +38,7 @@ img { max-width: 100% }
 
 <!-->
 Seems relevant and useful: https://www.edrlab.org/public/slides/dps2019/DPS-s6-1-Blanc.pdf
+http://slides.julie-blanc.fr/20190626_DigitalPublishingSummit.html
 <!-->
 
 
