@@ -8,11 +8,27 @@ title: Book PDF
 
     <link href="/css/interface.css" rel="stylesheet" type="text/css" />
     <link href="/css/print.css" rel="stylesheet" type="text/css" />
-    <script src="https://unpkg.com/pagedjs@0.4.1/dist/paged.polyfill.js"></script>
+    
 
 
 
 <style>
+@page {
+    size: A4;
+    margin-top: 20mm;
+    margin-bottom: 20mm;
+    bleed: 6mm; 
+    marks: crop;
+}  
+
+@page {
+  @bottom-left {
+    content: counter(page);
+  }
+}
+
+
+img { max-width: 100% }
 
 </style>
 
@@ -34,5 +50,6 @@ https://ashok-khanna.github.io/pdf/
 https://ashok-khanna.medium.com/beautiful-pdfs-from-html-9a7a3c565404
 <!-->
 
+    <script src="https://unpkg.com/pagedjs@0.4.1/dist/paged.polyfill.js"></script>
 
 </body>
