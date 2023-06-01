@@ -9,7 +9,7 @@
 {% for section in site.data.structure %}
     {% for chapter in section %}
 
-        {% assign post = site.posts | where:"url", chapter.url  | first %}
+        {% assign post = site.chapters | where:"url", chapter.url  | first %}
 
         {{post.content}}
 
