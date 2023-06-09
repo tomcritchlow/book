@@ -11,7 +11,7 @@ What would later become known as "peagate" was a classic mid 2010s classic socia
 
 And maybe it was a little, tiny bit my fault?
 
-Rewind the clock to one year before - it's 2014, the New York Times had a guacamole problem and I was there to help. I was sat in a large meeting room, walls covered in post-its and page designs printed on the wall, presenting to the NYT Cooking team. I was there to help with their SEO problems.
+Rewind the clock to one year before - it's 2014, the New York Times had a guacamole problem and they'd hired me to help. I was sat in a large meeting room, walls covered in post-its and page designs printed on the wall, presenting to the NYT Cooking team. I was there to help with their SEO problems.
 
 On the other side of the table sat Sam Sifton, a charismatic beaming enthusiastic figure and also a long-time editor of 20+ years at the New York Times. Sam didn't know much about SEO b but was willing to engage. I was trying to explain the guacamole problem in plain language:
 
@@ -23,9 +23,22 @@ On the other hand - the work was firmly SEO work, and I was viewed as the "SEO c
 
 What rarely gets mentioned as part of the great pea-guacamole debacle was the followup tweet. The NYTimes shared a link to a Guacamole collections page - listing out some of the best Guacamole recipes, with an editors pick recipe clearly marked and several sub-styles (like Tomatillo Guacamole, Guacamole de Frutas, Suvir Saran’s Guacamole With Toasted Cumin, Italian Guacamole and yes, Green Pea Guacamole). This was almost exactly as I'd recommended as part of my work with the team - shining a light on the best canonical Guacamole recipe, while also differentiating the other recipes.
 
+One of the hard things about consulting is that "simple" recommendations rarely prove to be simple. This NYT project was no different - I was feeling pretty good after managing to explain the problem with their taxonomy and tagging structure in a way that Sam Sifton would understand. But it turns out that diagnosing the problem was simply the first step in a long, complicated journey.
+
+As the meeting was wrapping up Ben French, then Executive Director, New Products, pulled me aside and confided that while he agreed that the guacamole problem was a real problem - the NYT Cooking team had just spent a ton of time and cost on re-tagging every single recipe. Going through that process again felt insurmountable both from a cost perspective, but also an internal political perspective - it would make them look stupid to have to go back and ask for more money to re-do work they'd just done.
+
+We'd have to find another way.
+
+These kind of p
+
+
+
+
 Part of the consulting engagement with the NYTimes involved a recommendation to update their tagging ability - they were going to need the ability to group all their recipes together like "thanksgiving recipes" or "gluten free recipes". While floating this idea to the team it emerged that as part of their initial launch (which was still in recent memory) the team had engaged in a complete re-tagging of their recipe archive. So re-re-tagging their recipes was going to be a tough sell internally...
 
 This is the part of any client engagement that gets me excited - where you realize that there's a real texture to a client's problems. There's no simple "re-tagging" project - it's a mixture of internal politics, creative ideation and maneuvering to help the client find a version of the project that will be effective AND get buy-in internally to be able to be implemented.
+
+## 6 Years Later...
 
 I'd come back to work with the New York Times 6 years later in my consulting journey - this time doing an entirely new kind of work: advising a senior executive on their internal status and influence and partnering on them with a sample project which was an innovation sprint to design a new product for the Times.
 
@@ -36,6 +49,14 @@ The first time I was brought in to work with the New York Times it was via my fr
 6 years later I'd come back to work with the Times via a friend Dorothy - someone I'd actually interviewed with back in 2013 (over 7 years previously!).
 
 This story encapsulates all the themes of the book - how clients come through your network, why changing clients is hard and requires delicate work, and how your personal narrative and identity is a key component of your success.
+
+## About Me
+
+My background - what I bring to the table. I've been doing some form of "consulting" work since 2007. First helping launch an SEO agency - I ran the consulting part of the business, first doing the work myself, then managing a team of consultants working on client work. Later I'd join Google and work with the Creative Lab and BizOps teams - straddling various forms of intrapreneurship - effectively consulting with various teams and projects across the business (including designing presentations for Sundar who would go on to become Google's CEO).
+
+Since 2014 I've been an independent consultant - 
+
+I found that writing about independent consulting was generative and useful for me personally, that people liked it and that a lot of my best advice ran counter to some of the accepted wisdom. Hence this book.
 
 ## The Three Themes of the Book
 
@@ -62,110 +83,11 @@ The archetype of the fool helps us
 In this section we address some of the causes of burn out: energy management, overwork, and identity.
 
 
+## New Ways of Thinking - not a "How To"
 
+If you read any advice on how to be a consultant you'll get a lot of prescriptive mandates - "You should.." and "This is how to.." - you won't find much of that in this book. One thing I've realized is that there are as many approaches as there are independent consultants. Everyone is unique and the only way to truly build a sustainable approach to independent consulting is to match your approach to your own personal biases.
 
-
-I don't think peagate was my fault exactly, in the same way the butterfly has a hard time feeling responsible for the tornado in Tokyo. But perhaps I was 
-
-In 2015 the Texas GOP tweeted 
-
-“declared war on Texas when they suggested adding green peas to guacamole”.
-
-
-
-
-https://www.theguardian.com/lifeandstyle/2015/jul/01/guacamole-peas-barack-obama-outcry
-
-
-
-
-
-
-
-The NYTimes had a guacamole problem and I was there to help. 
-
-
-
-In 2015 the New York Times was in trouble. They were getting called out for "cancelling avocados" and flamed for "idiot ideas about guacamole". All of this might have been a little bit my fault.
-
-You see, a year earlier the New York Times had a guacamole problem and had called me to help.
-
-
-
-Of course, it wasn't a real guacamole crisis - it was an SEO project with the NYT Cooking team - but I was explaining to Sam Sifton, a charismatic, senior and exceedling accomplished editor at the NYT why SEO was important and why there were problems.
-
-"You've got 26 guacamole recipes you see, and only 
-
-(A year later the NYTimes would get involved in "peagate" a huge social media controversey )
-
-One of my very first freelance clients was the New York Times - more specifically the NYT Cooking team. They had some SEO problems they wanted to work through and had reached out to me.
-
-The email from Hannah at the NYTimes read: "John suggested that I speak with you, and my preference would be to connect the team with an independent consultant over a larger agency." 
-
-This vingnette really represents the story of the book. How to find work through your network, why doing consulting work is more than just "giving advice" and why our personal identities are so entwined in the work.
-
-The book has three sections:
-
-Part 1: Going Independent & Finding Work (leaping)
-
-Part 2: Doing the work (systems, ways of seeing, improv)
-
-Part 3: Managing time, energy and identity (the inner game)
-
-
-
-- identity, coming back 6 years later to do more interesting work.
-- explaining the work to Sam Sifton
-- navigating the work and "the work" - tagging thousands of recipes
-- getting the work via John
-
-
-This 6-year arc (the consultant's arc)
-
-
-
-
-Feeling insignificant. Buried inside the hallways of a great institution. But talking about... guacamole seo?
-
-Part of the problem of course was 
-
-Interdependence, Improv and Identity.
-
-
-
-
-The New York Times building in Manhattan is pretty imposing - you get the feel that serious journalism is 
-But for now I was in awe at the lobby, the people, the stature of the place. I was just a lowly freelancer, was I supposed to be there? Did 
-
-Explaining to Sam Sifton, a long time journalist, editor and food critic about how SEO works and why they should care. "You have 26 guacamole recipes. When someone searches for "guacamole recipe" in Google, which one do you want them to land on?"
-
-While The New York Times is a great brand for one of my first freelance gigs, it was more than a little soul crushing. After spending a decade+ in SEO this engagment felt entirely transactional - not that *interesting* to me.
-
-I'd be back 6 years later to do some more consulting work - this time on my own terms as an independent consultant. Advising a new executive and support a new product R&D sprint. Nothing to do with SEO, far more stimulating and engaging. And, ironically, still working with Sam Sifton!
-
-
-
-
-
-
-It turns out that they had already
-
-There's everythign here - getting work via your friends, the challenge of doing work in complex systems, the difference between consulting and freelancing. 
-
-
-They had 26 guacamole recipes and 
-
-and I was there to help. One of my very first client projects working for myself was the NYTimes Cooking team. They had some SEO problems  - like the fact that they had 26 Guacamole recipes that all looked the same to Google - and I was working with them to help.
-
-How did I end up at the NYTimes? Via a close friend and ex colleague John. He sent an intro to someone who worked at the Times who subseqyently re
-
-
-
-A story about clients, about interdependence.  
-
-
-I need a human story. Personal or celebrity. Some narrative that pulls the reader in.
-Then this leads into "a lesson" that encapsulates the idea of the story and the themes of the book.
+That's why this book is called The Consultant's Grain - your own unique ideas, perspective, and yes your flaws - they all play a part of making your own unique practice.
 
 
 
@@ -197,13 +119,6 @@ Cash and calendar freedom.
 ------
 
 
-The Google offices are about as amazing as you've been led to believe. Bright and airy, colorful walls, snacks to die and massages during the day. The cubicles where you go to take video calls were often the same ones I used to cry in during the day. I felt trapped and suffocated. Lost deep inside the machine and feeling like I lacked any kind of autonomy, purpose or challenging work - combined with a visa that meant I couldn't easily quit was an awful psychological place to be.
-
-Which is why as soon as my Green Card arrived I quit.
-
-The moment you become "independent" is different for everyone. Sometimes it's a raw inability to work for someone else. Sometimes you're laid off and forced into the path.
-
-However you do it though, it's always a mixture of horror and joy. Freedom is intoxicating.
 
 The highlights of my own journey:
 
