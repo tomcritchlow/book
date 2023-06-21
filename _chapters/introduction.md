@@ -81,8 +81,6 @@ Just like the redwoods, every consultant is unique. Your personal story and hist
 
 My hope with this book is to give you some practice advice but also expand your way of looking at consulting and maybe, just maybe help you transform your practice. To help you build your own weird, unique practice that embraces your own grain.
 
-My hope is that this book both gives you some practical advice and ideas but also sparks some ideas and inspiration for how you might evolve and grow your own, unique, sustainable independent consulting practice.
-
 Enjoy, **The Consultants' Grain**.
 
 *Tom Critchlow, June 2023*
