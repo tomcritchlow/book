@@ -18,6 +18,8 @@ Culture eats strategy for breakfast
 
 Only let clients in the strategy door
 
+True, simple frameworks
+
 The next most useful thing
 
 Kairos consulting

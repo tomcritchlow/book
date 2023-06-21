@@ -1,11 +1,60 @@
 ---
 layout: tsi-chapter
-title: The Quest to Become Strategic
+title: The Quest for Strategy Work
 subtitle: How to do better work for more money, whether you're a designer, writer or strategist.
 tags: strategy
 ---
 
+You never forget your first consulting client. The New York Times was my second consulting client, but Fundera was my first. Fundera is a platform for small business financing. I got connected to their founder and we met for breakfast.
 
+
+
+I think he was expecting someone to help with SEO. What I brought to the table was some big ideas about branding and positioning and how to align content to the direction of the business.
+
+Ultimately this enthusiasm (coupled with some expertise in SEO) persuaded him that we should work together.
+
+[insert screenshot of first SOW?]
+
+I worked 2-3 days a week in their office for 4-5 months. It was a great first client to find my feet and get some money in the door. I remember their office was in tribeca in Manhattan, just around the corner from this amazing vegan cafe called Sun in Bloom. They served this delicious 
+
+After a few weeks and the magic wore off, every day I'd work in the office go to lunch, get a gluten free chocolate chip cookie as a "reward" for feeling terrible.
+
+There's a fundamental tension between strategy work and execution work. 
+
+
+
+
+
+
+
+It's true: strategy work is better paid, it's more satisfying and it's more impactful. There's only one problem: what the hell is strategy work?!
+
+Everywhere in our language we try and separate the two concepts: strategy / execution, head / hands, thinking / doing. But everytime we try and divide these concepts we find ourselves back
+
+Take the idea of embodied cognition - the simplistic model says that our brain tells our body what to do. In the millisecond 
+
+
+
+
+
+
+
+It's true: strategy work is better paid, it's more satisfying and it's more impactful.
+
+However it's also true that our notion of "strategy work" is broken. If you try and nail down strategy work 
+
+
+
+
+
+
+There's a story you can tell that goes like this: there's a difference between a chef and a cook. A chef is more senior, more strategic and directs the whole kitchen, while a cook "only" cooks the food, takes orders and does the work in front of them. Or a difference between an architect and a builder - where the architect plans and designs the house, while the builder "only" labors to put one brick on top of another.
+
+There's a story you can tell that goes like this: freelancers are more junior and just take orders from clients. They don't do strategic work, they're "only" doing tactical output work, directed by clients. While Consultants are strategic and are able to plan, advise and work with clients.
+
+There's a problem with both of these stories.
+
+Yes, 
 
 
 
@@ -51,6 +100,8 @@ You should be questing for strategic work.
 - But strategy/stewardship entweined
 - Systemic design as a term
 - Find a way to fall in love with the details (clients have a surprising amount of reality)
+- Trusted advisor (right/useful)
+
 
 
 The world of business puts strategy work on a pedestal. It's what a lot of people aspire to. "I want to become more strategic" or "
@@ -148,6 +199,8 @@ People become freelancers and independent consultants for all kinds of reasons -
 There are, broadly speaking, two kinds of client work. On the one hand we have the "doing" work, on the other hand we have the "thinking" work. We tend to call the doing
 
 
+
+---
 
 
 In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.
@@ -501,11 +554,5 @@ To peek [the outline for the book head over here](https://tomcritchlow.com/strat
 
 I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
 
---
 
-*Thank you to the amazing people who reviewed early drafts of this piece, commented and generally made this piece better including: Adam Wiggins, Chris Butler, Rachel Joy Victor, John Doherty, Mark Pollard, Josh Braaten & Brian Dell.*
-
---
-
-
-*Update: April 26th 2019 I spent an hour discussing the ideas in this post with Jonathan Stark from the podcast Ditching Hourly and you can [listen to that episode here](https://www.ditchinghourly.com/f1eaf983).*
+In section 1 and section 2 we'll explore this idea of strategy & stewardship. How do you get access to clients for senior work? And how do you actually do this mixture of strategy & stewardship?
