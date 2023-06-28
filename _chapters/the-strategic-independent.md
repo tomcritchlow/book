@@ -41,9 +41,7 @@ The more you understand an organization the better you can understand context, a
 
 ## Concentric Context
 
-So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts[^obvious].
-
-[^obvious]: This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement.
+So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts. This model seems... obvious? Except I'm always surprised at how often consultants and agencies fail to properly explore the wider contexts of the business either before starting work or during their engagement.
 
 ![](/images/context1.png)
 
@@ -60,6 +58,8 @@ Every project exists in multiple overlapping contexts - here's some of the types
 - Business model (revenue, profit)
 - Product (how does their product work, what is possible?)
 - The user (who is the user? What do they care about?)
+
+[insert project kickoff question themes here?]
 
 Your work likely overlaps at least partly with all of these ideas - but also depending on your specific work you might have different contexts and add more nuance.
 
@@ -81,24 +81,7 @@ Last year I was working with a client to integrate an acquisition into the main 
 
 </div>
 
-## Catastrophic Events & Context Collapse
-
-There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
-
-**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles
-
-![](/images/catastrophic-context.png)
-
-But for those above the fire-line there are two things that are crucial:
-
-1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
-2. **They likely knew about the catastrophic event ahead of time**. They may even have been responsible for causing the catastrophic event.
-
-We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
-
-Riding these crashes is a skill that I think in theory you can get good at - learning how to sprint at a moments notice in a new direction and operate supernaturally fast in a crashing environment.
-
-But I think it's way easier to instead always be searching upwards for more context awareness - i.e. working strategically. This helps you ride out those catastrophic events with more planning, awareness and foresight.
+Through being aware of the overlapping contexts that your work sits inside of, you'll be better able to navigate uncertainty. You can position your work so it's more likely to be palatable to the key stakeholders and you'll have more chance that your ideas will actually get implemented.
 
 ## Strategic work is better paid
 
@@ -229,6 +212,25 @@ But the thing I realized was that if you can provide momentum to an organization
 The freedom of a consultant is that you can ignore job title / role / responsibility and be laser focused on moving the business towards key objectives and mixing your outputs from small to big as needed.
 
 So, don't undervalue either part of your work - either the strategy or the stewardship. Remember that graph up above with the blue/green strategy/execution mix? I bill it all at the same day rate. Stewardship is just as valuable as strategy and there's no reason to somehow charge less for the execution work.
+
+## Catastrophic Events & Context Collapse
+
+There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
+
+**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles
+
+![](/images/catastrophic-context.png)
+
+But for those above the fire-line there are two things that are crucial:
+
+1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
+2. **They likely knew about the catastrophic event ahead of time**. They may even have been responsible for causing the catastrophic event.
+
+We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
+
+Riding these crashes is a skill that I think in theory you can get good at - learning how to sprint at a moments notice in a new direction and operate supernaturally fast in a crashing environment.
+
+But I think it's way easier to instead always be searching upwards for more context awareness - i.e. working strategically. This helps you ride out those catastrophic events with more planning, awareness and foresight.
 
 ## Only let clients in the strategy door
 
