@@ -4,13 +4,17 @@ subtitle: Phase by phase, one foot in front of the other
 layout: tsi-chapter
 ---
 
-I've got a few friends on the cusp of independent life, either just about to leap into the unknown or already quit and they're trying to figure it out.
+I've been an independent consultant for 9 years and in that time I've never changed my job title, received a promotion. But the journey has been anything but linear... The biggest jump in income was 48% YoY (in year 4).
 
-So here's a half-baked thesis and possible blueprint for navigating indie life.
+The good news about being self employed is you're no longer reliant on corporate structures, promotion cycles, job titles and pay rises. The bad news about self employed is you no longer get the safety and structure of corporate structures, promotion cycles, job titles and pay rises...
 
-🧭 🗺️ 🧭
+To build a long-term independent consulting practice it's important to pay attention to your personal evolution. How are you growing? What are you questing towards? How do you want to evolve?
 
-First, some core assumptions and insights:
+It's important to acknowledge that you can become whoever you want to be, but that personal transformation takes time. This can feel frustrating, difficult and you'll likely get stuck along the way.
+
+In this chapter we'll explore some potential phases of an independent consultant career and how you can think about transitioning between them.
+
+First, some core assumptions and insights about the independent consultant path:
 
 ## 1. Consulting can build cash freedom
 
