@@ -18,9 +18,7 @@ First, some core assumptions and insights about the independent consultant path:
 
 ## 1. Consulting can build cash freedom
 
-People get an allergic reaction to the label "consulting" [^consulting] but I'd like to argue that trading time for money is a great economic tool. It provides you cash leverage to pursue all kinds of other things.
-
-[^consulting]: Rightly so perhaps if you read the headlines about folks like McKinsey...
+People get an allergic reaction to the label "consulting" but I'd like to argue that trading time for money is a great economic tool. It provides you cash leverage to pursue all kinds of other things.
 
 For that reason, and because it's what I know, consulting and client work features heavily here. You do you. But bear in mind that "client work" / freelancing / consulting comes in many different guises.
 
@@ -180,6 +178,6 @@ I'd love to tell you how this story ends but I'm at the edge of my own map. I'm 
 
 I think you steer in phase 5 by building sustainable wealth. Beyond cashflow, is your total wealth (physical, mental, family, economic) growing over time? Maybe in this phase you need to actually measure those things directly....
 
-🧭 🗺️ 🧭
+## The Map is Not the Territory
 
-As I said up top - this isn't THE map. It's probably not even MY OWN - I probably fictionalized and mis-remembered my own experience. But I hope it's useful. Remember that change is a continuous process - and you have to look after yourself, because there's no safety net.
+Remember that every consultant's journey is unique - there's no right or wrong way to do it and your personal experience may zig and zag in all manner of directions. Hopefully there's value in seeing my own journey and evolution - the important piece is to recognize that being an independent consultant can be an incredible journey of personal development, but that change is gradual continuous process that feels viscerally different to the corporate path of legible job titles, promotions and pay rises.
