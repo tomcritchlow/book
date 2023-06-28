@@ -5,240 +5,41 @@ subtitle: How to do better work for more money, whether you're a designer, write
 tags: strategy
 ---
 
-You never forget your first consulting client. The New York Times was my second consulting client, but Fundera was my first. Fundera is a platform for small business financing. I got connected to their founder and we met for breakfast.
+You never forget your first consulting client. While The New York Times was my second consulting client, Fundera was my first. Fundera is a platform for small business financing. I got connected to their founder and we met for breakfast. I was just about to quit my job at Google, where every project started with a "big company" approach of positioning, branding, strategy and so on.
 
+I wanted to be doing important, big, strategy work and so over breakfast I told Jared the founder of Fundera about how we'd do this kind of big picture strategic work.
 
+The SOW we arrived at looked a bit more tactical - Jared was looking for some SEO help.
 
-I think he was expecting someone to help with SEO. What I brought to the table was some big ideas about branding and positioning and how to align content to the direction of the business.
+It's true: strategy work is better paid, it's more satisfying and it's more impactful. The quest for strategy work is in essence the quest to be an independent consultant - doing interesting work for more money with more impact.
 
-Ultimately this enthusiasm (coupled with some expertise in SEO) persuaded him that we should work together.
+There's only one problem: what the hell is strategy work?!
 
-[insert screenshot of first SOW?]
+In western culture we repeatedly conflate strategy and execution, thinking and doing, knowing and feeling. And every time reality refutes our clean separation - thinking and doing are two sides of the same coin.
 
-I worked 2-3 days a week in their office for 4-5 months. It was a great first client to find my feet and get some money in the door. I remember their office was in tribeca in Manhattan, just around the corner from this amazing vegan cafe called Sun in Bloom. They served this delicious 
+## Strategic Work is just Work-in-context
 
-After a few weeks and the magic wore off, every day I'd work in the office go to lunch, get a gluten free chocolate chip cookie as a "reward" for feeling terrible.
+Client work can be frustrating - it sometimes feels like clients are actively working against your ideas, despite the fact that they hired you!
 
-There's a fundamental tension between strategy work and execution work. 
+Have you ever been frustrated that:
 
+*A project got cancelled without notice*
 
+*You have to go through endless revisions and rounds of feedback*
 
+*A project stalled before it even started*
 
-
-
-
-It's true: strategy work is better paid, it's more satisfying and it's more impactful. There's only one problem: what the hell is strategy work?!
-
-Everywhere in our language we try and separate the two concepts: strategy / execution, head / hands, thinking / doing. But everytime we try and divide these concepts we find ourselves back
-
-Take the idea of embodied cognition - the simplistic model says that our brain tells our body what to do. In the millisecond 
-
-
-
-
-
-
-
-It's true: strategy work is better paid, it's more satisfying and it's more impactful.
-
-However it's also true that our notion of "strategy work" is broken. If you try and nail down strategy work 
-
-
-
-
-
-
-There's a story you can tell that goes like this: there's a difference between a chef and a cook. A chef is more senior, more strategic and directs the whole kitchen, while a cook "only" cooks the food, takes orders and does the work in front of them. Or a difference between an architect and a builder - where the architect plans and designs the house, while the builder "only" labors to put one brick on top of another.
-
-There's a story you can tell that goes like this: freelancers are more junior and just take orders from clients. They don't do strategic work, they're "only" doing tactical output work, directed by clients. While Consultants are strategic and are able to plan, advise and work with clients.
-
-There's a problem with both of these stories.
-
-Yes, 
-
-
-
-
-There's a story that goes like this: a cook is someone who just follows orders and cooks the recipes, while a chef is someone who decides what to cook, plans the recipes and directs the cooks. A lot of freelancers are stuck as cooks - delivering straightforward cooking, directed by clients (chefs). Many freelancers aspire to be chefs themselves, advising clients on what to do, not just doing it.
-
-There's a part of this story that is true and useful: questing for more senior, more impactful work will help you do more interesting work that's better paid.
-
-But we need a better mental model than "strategy vs execution" and we need a richer understanding of what it takes to get there.
-
-## Strategy Work is Work in Context
-
-
-
-I chop vegetables bigger than my partner does. Our definition of "cubed vegetables" is different. Mine are bigger, hers are smaller. This causes some marital conflict - there's a process-management-gap (duarte)
-
-
-Strategy/execution. Thinking/doing. Head/hands. Planning/making.
-
-Chef/cook. 
-
-In language we continually try and separate out these concepts - and the world of business is no different. I've lost count of the times I've been told something "isn't strategic". You should be more strategic. You should create a strategy.
-
-But reality is continually complicating our relationship and preventing us from cleanly separting out these concepts. The field of embodied cognition provides us many examples of how 
-
-Reality 
-
-
-The decision to put peas in guacamole is both strategic and tactical. In fact, any kind of cooking contains this double context of being 
-
-Russian dolls. Nested goals. Fingertip feeling. Intuition.
-
-You should be questing for strategic work.
-
-
-
-
-
-- Strategy work is higher status, more senior and better paid
-- Strategy work is better work
-- Strategy work is work in context
-- Business expertise triangle
-- But strategy/stewardship entweined
-- Systemic design as a term
-- Find a way to fall in love with the details (clients have a surprising amount of reality)
-- Trusted advisor (right/useful)
-
-
-
-The world of business puts strategy work on a pedestal. It's what a lot of people aspire to. "I want to become more strategic" or "
-
-
-I trained in Wing Chun Kung Fu for many years - a form of martial arts that focuses on fighting in close quarters, moving with speed and a focus on grace and fluid motions. It's the same martial arts style that Bruce Lee studied when he was young. Be like water is a phrase that feels like a good description of the feeling of practicing wing chun.
-
-There are some flashy moves - but what does it feel like to train in wing chun? The day to day lived experience feels like the physically and mentally exhausting process of moving higher order executive brain functions (aka, thinking) into lower order brain function, muscle memory and instinctive reaction (aka, doing). There is no "be like water" if you have to stop and think after every movement, interaction and change in environment.
-
-Cooking is the same way - you're training instinctual movements in a highly complex, fast moving environment.
-
-But what is thinking anyway? Our society often prizes thinking over doing - it's the high status "strategy" or "vision".
-
-The world of business is no different - we prize strategic thinking. 
-
-The analogy comes from the top down command and control model 
-
-
-
-
-
-
-In the world of business we tend to separate the concepts of "strategy" and "execution". Strategy work gets put on a pedastal as being high status, well paid and more senior work.
-
-But reality would beg to differ.
-
-
-Even in the world of business, this analogy breaks down. While we celebrate "strategic thinking" you also see many stories celebrating CEOs who roll up their sleeves and get the "dirty work" done. 
-
-
-
-
-Embodied cognition
-Cooking
-
-
-
-
-
-- Strategy work is higher status / better paid
-- But strategy/execution is more complicated entwined than black/white
-- Failure mode to ONLY do stratgy or execution
-- Strategy/stewardship
-- Jiro Ono : I've never once hated this job. I fell in love with my work and gave my life to it. Even though I'm eighty five years old, I don't feel like retiring. That's how I feel. - have to develop a way to love the work itself, there's always depth and craft
-
-
-https://chat.openai.com/share/75ccfcbb-e05b-4a59-9c08-bc6f04bd0992
-
-https://thepointmag.com/examined-life/against-advice-agnes-callard/
-
-"empty strategy" - useless advice. It's "correct" but carries none of the rich texture required to be effectual. 
-
-
-
-"Chop the garlic, nice and fine and then mix with some oil". I'm cooking with my partner, we're dancing around each other in the kitchen reaching for tool, carrying steaming dishes and generally trying to assemble a meal for the kids before they melt down and everything goes to shit.
-
-I like to joke with my partner that I'm not very good at co-cooking. I like to either be in charge or be told what to do - but I don't do well in the middle zone of equal direction.
-
-If my partner tells me to 
-
-"Hands" work is doing work - it's busy work. It's hard work. But hands work is how you know that you're running low on Garlic. Or how you discover that this garlic clove has gone bad and we'll need to find an alternative.
-
-If we zoom out - we're realizing that humans don't even do all their thinking in the brain. We have what's called embodied cognition - our bodies and our brains are in a complex dance, sharing information, sometimes one is in charge and sometimes the other.
-
-Our notion of "strategy" work is the same - we think of it as "brain" work but in fact reality is messier, more complex, entwined with the hands (doing) work.
-
-
-
-
-
-
-
-
-
-
-The metaphors for strategy and execution persuade us that these are two distinct ideas. As a freelancer sometimes it can feel like "all" we're doing is the execution work. 
-
-The reality is a little more complicated - the thinking and the doing work are entwined. And I'd like to argue that to be a well rounded indie consultant you need to recognize and get involved in both kinds of work.
-
-
-
-
-Working on tactical execution work can feel like swimming upstream. It's hard to imagine how to 
-
-
-
-The business of expertise says that the most accomplished business leaders are able to look across markets, operations and capital to understand the interplay. This is, sim
-
-Good strategy/bad stratgey: diagnosis, guiding principle, set of coherent actions. 
-
-
-
-People become freelancers and independent consultants for all kinds of reasons - whether you were laid off, quit or simply couldn't stand having a boss - the ultimate end is the same: independents 
-
-There are, broadly speaking, two kinds of client work. On the one hand we have the "doing" work, on the other hand we have the "thinking" work. We tend to call the doing
-
-
-
----
-
-
-In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.
-
-We'll walk through:
-
-- **What strategic work is** - by looking at a variety of contexts you might work within and how to spot them.
-- **Why strategic work is better** - both for you and the client, offering more value to them and being more interesting for you.
-- **How strategic work enables you to charge more** - and keep clients retained for longer, a compounding effect on your ability to charge more.
-- **How you can begin to think strategically** - offering some real examples from my own career.
-
-Finally, how being independent offers more value for your clients by enabling you to gain adjacent context that your client might not be able to see and that we get this adjacent from our network - and therefore we should really think of being codependent with our network.
-
-Onwards...
-
-## Strategic work is work-in-context
-
-Client work can be frustrating:
-
-*Ever had a project cancelled without notice?*
-
-*Ever had to go through endless revisions and feel like you're not getting it?*
-
-*Ever had a project stall before it even started because you can't agree on the exact deliverables?*
-
-*Ever had a piece of work never get implemented by a client?*
+*A piece of work you delivered never got implemented by a client*
 
 But frustration is a two player game - when you're frustrated that work doesn't make sense - the client is likely frustrated that your work doesn't meet their objectives well enough.
 
 Context is the key.
 
-Even before I start working with a client in the very first meeting I always make sure I ask questions about business model, team structure, company priorities and more. These don't always feel relevant to the specific request but help me better map out both the work I need to do and the stakeholders that need to see it.
+As soon as I start talking with a potential client I'm probing for context. I'm asking questions about business model, team structure, company priorities, market shifts and more. These don't always feel relevant to the specific project but help me better map out both the work I need to do and the stakeholders that need to see it.
 
-The more you understand an organization the better you can understand context[^wayseeing].
+The more you understand an organization the better you can understand context, and every client is a nested set of overlapping contexts.
 
-[^wayseeing]: I wrote a whole post called [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
-
-## Overlapping contexts
+## Concentric Context
 
 So when I talk about strategic work - it's about trying to understand the concentric circles of context at any time. For example - if you're designing an app for a company the app might sit within a variety of business contexts[^obvious].
 
@@ -556,3 +357,215 @@ I'd love to hear your experience with strategic work, independence and context. 
 
 
 In section 1 and section 2 we'll explore this idea of strategy & stewardship. How do you get access to clients for senior work? And how do you actually do this mixture of strategy & stewardship?
+
+<details>
+<summary>Discarded writing</summary>
+
+
+I think he was expecting someone to help with SEO. What I brought to the table was some big ideas about branding and positioning and how to align content to the direction of the business.
+
+Ultimately this enthusiasm (coupled with some expertise in SEO) persuaded him that we should work together.
+
+[insert screenshot of first SOW?]
+
+I worked 2-3 days a week in their office for 4-5 months. It was a great first client to find my feet and get some money in the door. I remember their office was in tribeca in Manhattan, just around the corner from this amazing vegan cafe called Sun in Bloom. They served this delicious 
+
+After a few weeks and the magic wore off, every day I'd work in the office go to lunch, get a gluten free chocolate chip cookie as a "reward" for feeling terrible.
+
+There's a fundamental tension between strategy work and execution work. 
+
+
+
+
+
+
+
+It's true: strategy work is better paid, it's more satisfying and it's more impactful. There's only one problem: what the hell is strategy work?!
+
+Everywhere in our language we try and separate the two concepts: strategy / execution, head / hands, thinking / doing. But everytime we try and divide these concepts we find ourselves back
+
+Take the idea of embodied cognition - the simplistic model says that our brain tells our body what to do. In the millisecond 
+
+
+
+
+
+
+
+It's true: strategy work is better paid, it's more satisfying and it's more impactful.
+
+However it's also true that our notion of "strategy work" is broken. If you try and nail down strategy work 
+
+
+
+
+
+
+There's a story you can tell that goes like this: there's a difference between a chef and a cook. A chef is more senior, more strategic and directs the whole kitchen, while a cook "only" cooks the food, takes orders and does the work in front of them. Or a difference between an architect and a builder - where the architect plans and designs the house, while the builder "only" labors to put one brick on top of another.
+
+There's a story you can tell that goes like this: freelancers are more junior and just take orders from clients. They don't do strategic work, they're "only" doing tactical output work, directed by clients. While Consultants are strategic and are able to plan, advise and work with clients.
+
+There's a problem with both of these stories.
+
+Yes, 
+
+
+
+
+There's a story that goes like this: a cook is someone who just follows orders and cooks the recipes, while a chef is someone who decides what to cook, plans the recipes and directs the cooks. A lot of freelancers are stuck as cooks - delivering straightforward cooking, directed by clients (chefs). Many freelancers aspire to be chefs themselves, advising clients on what to do, not just doing it.
+
+There's a part of this story that is true and useful: questing for more senior, more impactful work will help you do more interesting work that's better paid.
+
+But we need a better mental model than "strategy vs execution" and we need a richer understanding of what it takes to get there.
+
+## Strategy Work is Work in Context
+
+
+
+I chop vegetables bigger than my partner does. Our definition of "cubed vegetables" is different. Mine are bigger, hers are smaller. This causes some marital conflict - there's a process-management-gap (duarte)
+
+
+Strategy/execution. Thinking/doing. Head/hands. Planning/making.
+
+Chef/cook. 
+
+In language we continually try and separate out these concepts - and the world of business is no different. I've lost count of the times I've been told something "isn't strategic". You should be more strategic. You should create a strategy.
+
+But reality is continually complicating our relationship and preventing us from cleanly separting out these concepts. The field of embodied cognition provides us many examples of how 
+
+Reality 
+
+
+The decision to put peas in guacamole is both strategic and tactical. In fact, any kind of cooking contains this double context of being 
+
+Russian dolls. Nested goals. Fingertip feeling. Intuition.
+
+You should be questing for strategic work.
+
+
+
+
+
+- Strategy work is higher status, more senior and better paid
+- Strategy work is better work
+- Strategy work is work in context
+- Business expertise triangle
+- But strategy/stewardship entweined
+- Systemic design as a term
+- Find a way to fall in love with the details (clients have a surprising amount of reality)
+- Trusted advisor (right/useful)
+
+
+
+The world of business puts strategy work on a pedestal. It's what a lot of people aspire to. "I want to become more strategic" or "
+
+
+I trained in Wing Chun Kung Fu for many years - a form of martial arts that focuses on fighting in close quarters, moving with speed and a focus on grace and fluid motions. It's the same martial arts style that Bruce Lee studied when he was young. Be like water is a phrase that feels like a good description of the feeling of practicing wing chun.
+
+There are some flashy moves - but what does it feel like to train in wing chun? The day to day lived experience feels like the physically and mentally exhausting process of moving higher order executive brain functions (aka, thinking) into lower order brain function, muscle memory and instinctive reaction (aka, doing). There is no "be like water" if you have to stop and think after every movement, interaction and change in environment.
+
+Cooking is the same way - you're training instinctual movements in a highly complex, fast moving environment.
+
+But what is thinking anyway? Our society often prizes thinking over doing - it's the high status "strategy" or "vision".
+
+The world of business is no different - we prize strategic thinking. 
+
+The analogy comes from the top down command and control model 
+
+
+
+
+
+
+In the world of business we tend to separate the concepts of "strategy" and "execution". Strategy work gets put on a pedastal as being high status, well paid and more senior work.
+
+But reality would beg to differ.
+
+
+Even in the world of business, this analogy breaks down. While we celebrate "strategic thinking" you also see many stories celebrating CEOs who roll up their sleeves and get the "dirty work" done. 
+
+
+
+
+Embodied cognition
+Cooking
+
+
+
+
+
+- Strategy work is higher status / better paid
+- But strategy/execution is more complicated entwined than black/white
+- Failure mode to ONLY do stratgy or execution
+- Strategy/stewardship
+- Jiro Ono : I've never once hated this job. I fell in love with my work and gave my life to it. Even though I'm eighty five years old, I don't feel like retiring. That's how I feel. - have to develop a way to love the work itself, there's always depth and craft
+
+
+https://chat.openai.com/share/75ccfcbb-e05b-4a59-9c08-bc6f04bd0992
+
+https://thepointmag.com/examined-life/against-advice-agnes-callard/
+
+"empty strategy" - useless advice. It's "correct" but carries none of the rich texture required to be effectual. 
+
+
+
+"Chop the garlic, nice and fine and then mix with some oil". I'm cooking with my partner, we're dancing around each other in the kitchen reaching for tool, carrying steaming dishes and generally trying to assemble a meal for the kids before they melt down and everything goes to shit.
+
+I like to joke with my partner that I'm not very good at co-cooking. I like to either be in charge or be told what to do - but I don't do well in the middle zone of equal direction.
+
+If my partner tells me to 
+
+"Hands" work is doing work - it's busy work. It's hard work. But hands work is how you know that you're running low on Garlic. Or how you discover that this garlic clove has gone bad and we'll need to find an alternative.
+
+If we zoom out - we're realizing that humans don't even do all their thinking in the brain. We have what's called embodied cognition - our bodies and our brains are in a complex dance, sharing information, sometimes one is in charge and sometimes the other.
+
+Our notion of "strategy" work is the same - we think of it as "brain" work but in fact reality is messier, more complex, entwined with the hands (doing) work.
+
+
+
+
+
+
+
+
+
+
+The metaphors for strategy and execution persuade us that these are two distinct ideas. As a freelancer sometimes it can feel like "all" we're doing is the execution work. 
+
+The reality is a little more complicated - the thinking and the doing work are entwined. And I'd like to argue that to be a well rounded indie consultant you need to recognize and get involved in both kinds of work.
+
+
+
+
+Working on tactical execution work can feel like swimming upstream. It's hard to imagine how to 
+
+
+
+The business of expertise says that the most accomplished business leaders are able to look across markets, operations and capital to understand the interplay. This is, sim
+
+Good strategy/bad stratgey: diagnosis, guiding principle, set of coherent actions. 
+
+
+
+People become freelancers and independent consultants for all kinds of reasons - whether you were laid off, quit or simply couldn't stand having a boss - the ultimate end is the same: independents 
+
+There are, broadly speaking, two kinds of client work. On the one hand we have the "doing" work, on the other hand we have the "thinking" work. We tend to call the doing
+
+
+
+
+In this post I want to break down what I mean by "strategic independent" and why, whatever path you're on and expertise you have, you can bring more value for yourself and your clients by thinking strategically.
+
+We'll walk through:
+
+- **What strategic work is** - by looking at a variety of contexts you might work within and how to spot them.
+- **Why strategic work is better** - both for you and the client, offering more value to them and being more interesting for you.
+- **How strategic work enables you to charge more** - and keep clients retained for longer, a compounding effect on your ability to charge more.
+- **How you can begin to think strategically** - offering some real examples from my own career.
+
+Finally, how being independent offers more value for your clients by enabling you to gain adjacent context that your client might not be able to see and that we get this adjacent from our network - and therefore we should really think of being codependent with our network.
+
+Onwards...
+---
+
+</details>
