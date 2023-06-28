@@ -132,15 +132,32 @@ It's not unreasonable to imagine:
 - Style guide: $2,000
 - Content strategy: $20,000
 
-These are necessarily imperfect analogies and will vary wildly from industry to industry[^contextexamples], but here's a specific callout as you start to bundle "the work" and "the context":
-
-[^contextexamples]: I'm keen to hear more stories of different kinds of work where people have navigated this shift into wider contexts - email me!
+These are necessarily imperfect analogies and will vary wildly from industry to industry, but here's a specific callout as you start to bundle "the work" and "the context":
 
 **Don't give the context work away for free. In fact, do the opposite - charge more for it than your regular work.**
 
 I see this often with more junior or less confident independents - you're trying to close "the work" and so you throw in "the context" for free or as a sweetener.
 
 Don't do this! Work-in-context is typically more expensive than regular work so don't be afraid to price it separately and confidently. Don't worry if the client doesn't bite at first - strategic work is only valuable at certain inflection points (see below graphs) but they'll remember that you offered it and it'll come back around.
+
+## Catastrophic Events & Context Collapse
+
+There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
+
+**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles
+
+![](/images/catastrophic-context.png)
+
+But for those above the fire-line there are two things that are crucial:
+
+1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
+2. **They likely knew about the catastrophic event ahead of time**. They may even have been responsible for causing the catastrophic event.
+
+We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
+
+Riding these crashes is a skill that I think in theory you can get good at - learning how to sprint at a moments notice in a new direction and operate supernaturally fast in a crashing environment.
+
+But I think it's way easier to instead always be searching upwards for more context awareness - i.e. working strategically. This helps you ride out those catastrophic events with more planning, awareness and foresight.
 
 ## Strategy and Stewardship - a framework for retaining clients for a long time
 
@@ -164,7 +181,7 @@ Imagine a 12-month client retainer with the strategic work in green and the impl
 
 ![](/images/strategy-execution.png)
 
-You can see that (roughly) the total amount of work is constant but there is a phase shift from strategy at the beginning to mostly execution & implementation (stewardship) and then a hard shift back into strategic work.
+You can see that (roughly) the total amount of work is constant but there is a phase shift from strategy at the beginning to mostly execution & implementation (stewardship) and then a hard shift back into strategic work. You can think about this as **repeated contexts** over time.
 
 If you look at strategy on its own:
 
@@ -197,9 +214,9 @@ So is the execution just plugging away in the trenches? Yes sometimes, but I thi
 - Building dashboards and reporting templates
 - Adding partnerships and relationships
 
-If you take this strategy & stewardship approach - when the client comes to review the strategy at month 6 you're still there working with the client and able to offer tangible and concrete insights into the work. How is the strategy evolving? Where should we adjust? What have we achieved?
+If you take this strategy & stewardship approach - when the client comes to review the strategy at month 6 you're still there working with them and able to offer tangible and concrete insights into the work. How is the strategy evolving? Where should we adjust? What have we achieved?
 
-**Using this approach the average retainer length for clients I work with is 20 months.**
+In the 9 years I've been consulting I have one client I've been working with for 7 years and multiple 2+ year engagements. I attribute this to being willing to work on strategy and stewardship.
 
 I recall an important breakthrough for my own thinking - a client had hired another consultant to work on a project and afterwards I asked my client how the experience was and he said:
 
@@ -212,25 +229,6 @@ But the thing I realized was that if you can provide momentum to an organization
 The freedom of a consultant is that you can ignore job title / role / responsibility and be laser focused on moving the business towards key objectives and mixing your outputs from small to big as needed.
 
 So, don't undervalue either part of your work - either the strategy or the stewardship. Remember that graph up above with the blue/green strategy/execution mix? I bill it all at the same day rate. Stewardship is just as valuable as strategy and there's no reason to somehow charge less for the execution work.
-
-## Catastrophic Events & Context Collapse
-
-There's a certain kind of experience that I want to describe where everything goes to shit. Certain events in business collapse the environment. For example - let's take that context model for app design from earlier in the post. But let's assume that the growth objectives are "in crisis" - this could be missing targets, people change, overspend, change in marketing strategy etc
-
-**These catastrophic events collapse the environment and cascade downwards**. Every circle inside gets ignored, paused, cancelled, changed, redefined. These events are felt like system-shock for anyone operating in these lower circles
-
-![](/images/catastrophic-context.png)
-
-But for those above the fire-line there are two things that are crucial:
-
-1. Their objectives and priorities haven't changed much, they're still operating within the same context they were previously (although they may feel some turbulence)
-2. **They likely knew about the catastrophic event ahead of time**. They may even have been responsible for causing the catastrophic event.
-
-We've likely all been personally inside a context as it collapses - either as a full time employee or a consultant / agency partner. It's not fun.
-
-Riding these crashes is a skill that I think in theory you can get good at - learning how to sprint at a moments notice in a new direction and operate supernaturally fast in a crashing environment.
-
-But I think it's way easier to instead always be searching upwards for more context awareness - i.e. working strategically. This helps you ride out those catastrophic events with more planning, awareness and foresight.
 
 ## Only let clients in the strategy door
 
@@ -252,17 +250,13 @@ The argument really boils down to:
 - Not only that but implementation work is often more stressful and deadline-driven
 - So of course do both for clients but only let them in through the strategy door to ensure that you do better, higher value and higher margin work.
 
-You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom[^david].
-
-[^david]: There is however a shorter (older) version of this argument from David [online here](https://www.davidcbaker.com/stuff/contentmgr/files/0/111a12c116b9aca5659f0f491f5b52a4/download/marrystratexec.pdf)
+You should really [buy the book](https://www.amazon.com/dp/B07B7DFP1B/) - it's a fast read but has lots of pieces of wisdom.
 
 Importantly - if you accept that you can do a lot of implementation work for clients but they should all start with strategy then your external positioning should be entirely focused around the strategy work to attract the right kinds of clients.
 
-## Time & Money
+## Charging for Strategy & Stewardship
 
 Here's a funny thing - when you read the accepted literature about pricing as an independent you'll hear again and again that pricing based on time is a [bad thing](https://ryanwaggoner.com/freelance-rate-mistake/)[^timemoney]. And, maybe they're right - but I've had plenty of success charging on a loosely-coupled time-based approach (almost all of my work is scoped at a day rate, at least to begin with).
-
-[^timemoney]: To be fair - many of the freelancer advice posts do caveat their advice saying day-rates are ok, but it's usually a footnote and I think it's easy to come away as a beginner only understanding that charging for time is bad. I know I did.
 
 **I have a theory that this time-based approach to pricing is especially powerful as you move through a context-transition.**
 
@@ -276,11 +270,9 @@ So I say - if you're reading the commonly accepted wisdom about pricing and feel
 
 Looking back at my career - this idea of doing work-in-context has determined the path I've taken from SEO manager to digital strategy to consulting work.
 
-The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business-level goals are usually not owned by SEO practitioners or agencies[^seo].
+The problem with SEO is that it's inherently non-strategic. As an activity it's increasingly commoditized and marginalized. Not that SEO-traffic is not important or that SEO is going away, but that the strategic activities you undertake to achieve business-level goals are usually not owned by SEO practitioners or agencies.
 
-[^seo]: Yes, there are exceptions to this of course but there's a reason there's no widely recognized c-suite SEO function.
-
-This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I worked at Distilled it wasn't uncommon to be working directly on digital strategy for fortune-500 brands, in a context model that looked something like this:
+This wasn't always true - there was a golden age of ~2008-2012 where an SEO agency could get directly in front of the CMO to work on digital strategy. Back in 2011 when I ran an SEO agency it wasn't uncommon to be working directly on digital strategy for fortune-500 brands, in a context model that looked something like this:
 
 ![](/images/seo-context-old.png)
 
@@ -290,11 +282,9 @@ But I could see the writing on the wall and could feel the shift as everyone els
 
 As I felt this shift towards SEO being less strategic I needed to find ways to expand my context and work in different types of work more directly and explicitly.
 
-When I first started consulting in 2014, yes I worked mostly on SEO projects. But I was keenly aware of the wider context and pushed myself to ask questions and be curious - whether about the business model or the teams executing the work.
+When I first started consulting in 2014, yes I worked mostly on SEO projects - like the New York Times Cooking project. But I was keenly aware of the wider context and pushed myself to ask questions and be curious - whether about the business model or the teams executing the work.
 
-Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do[^mediadesign].
-
-[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design](https://tomcritchlow.com/2018/07/25/media-design/).
+Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do.
 
 ## How to learn to be more strategic
 
@@ -321,27 +311,31 @@ As you can see, this path to strategic work relies on gaining context from clien
 
 ## The adjacent-context benefit of independence
 
-Most of this post focuses on the idea of context as gathered from your client and their business - but there's another great source of context: peers.
+So far we've only looked at the context of the client's organization. But your personal context can sometimes be critical to a project. 
 
-Co-dependence is really the right word for independence[^frank]. I've talked a lot about the power of the network - both as a tool for gathering leads for your business but also as an emotional support network.
+One of the core benefits of being the outsider inside a client's organization is the ability to bring in contexts from other industries, other clients and other experiences. This context often allows you to figure out ways to get projects delivered, smooth tensions between teams and find ways to operationalize the strategy you've created.
 
-[^frank]: Frank was [kind enough to point out](https://twitter.com/frank_chimero/status/1113873146057318403) that in-fact co-dependence is not the right word at all! The actual definition of the word is around enabling addiction. I didn't know that! The correct word is *interdependence* and Frank Chimero has a more recent post all about this topic: [back to the cave](https://frankchimero.com/writing/back-to-the-cave/). Thanks Frank!
+This is a core benefit, since clients are only exposed to the context of their own business. Agencies can sometimes see this adjacent context too but it's at a relatively shallow perspective.
+
+The unique vantage point of the independent consultant, working in strategy and stewardship for multiple clients is that you get this unique perspective of all the overlapping contexts for the work.
+
+![](/images/consultant-frame.svg)
+
+This is also why building a strong network of other independent consultants is valuable.
 
 Frank Chimero wrote a wonderful essay I think about often titled [the inferno of independence](https://frankchimero.com/blog/2013/the-inferno-of-independence/) which is hard to boil down but looks at the nature of independent work - and articulates this shift from independence to co-dependence:
 
 > Listen: we only deserve what we can maintain and keep safe. A community is only as good as how well it takes care of all its members. There is no independence. There is only subservience or co-dependence. And I choose you. I choose community.
 
-Co-dependence and network building has plenty of other benefits[^strange] but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
-
-[^strange]: I wrote about using a network to build a steady stream of high value leads in my post [strange attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/)
+Co-dependence and network building has plenty of other benefits but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
 
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
+## The Quest to be a Strategic Independent
+
 So then, the strategic independent is someone who not only helps bridge context inside an organization but outside as well. This distance from a client's organization is extremely valuable - and yet another reason not to undersell the value of context before and during an engagement. Someone able to connect the dots and do work-in-context but also expand the context into new directions.
 
-## Will you join me on the path to being a strategic independent?
-
-Hopefully this long post was helpful - let's recap the main points:
+Let's recap:
 
 -  Work-in-context is more rewarding & more effective for you and the client
 -  It also allows you to charge for additional types of work! Hence making you better paid
@@ -351,14 +345,7 @@ Hopefully this long post was helpful - let's recap the main points:
 -  And, as you work in fluid context-shifting client work don't be afraid to charge based on time - despite what the received wisdom advises.
 -  Finally as an independent remember that co-dependence with your network is actually the ideal state and you can gain context from peers just as much as you can from clients
 
-I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing **strategic work, independently - the strategic independent**.
-
-To peek [the outline for the book head over here](https://tomcritchlow.com/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/tomcritchlow) to keep updated with the latest.
-
-I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
-
-
-In section 1 and section 2 we'll explore this idea of strategy & stewardship. How do you get access to clients for senior work? And how do you actually do this mixture of strategy & stewardship?
+Unfortunately, the quest for strategy work is not easy or short. It's a long journey. In the next chapter we'll explore the journey in more detail.
 
 <details>
 <summary>Discarded writing</summary>
