@@ -15,7 +15,7 @@ Six months earlier the New York Times had assembled a new team to build new digi
 
 I was sat facing Sam Sifton, in a room covered by brightly colored post-it notes and printed mockups of website designs. This would be a familiar scene for any startup or technology company but felt rebellious or less typical for an imposing old institution like the New York Times.
 
-I tried to explain the guacamole problem in plan language: 
+I tried to explain the guacamole problem in plain language: 
 
 > "The problem is that you have 26 recipes - and they all say "guacamole recipe" on them. When someone searches in Google, which one should they land on? Which one is the best guacamole recipe? And how do we differentiate the other 25?"
 
@@ -63,6 +63,8 @@ How to generate clients, how to reconcile the idea of "positioning" that is typi
 
 ### 2. Improv as a tool to change clients
 
+Giving advice is a tricky business, and it can feel frustrating. Clients get in the way of your good ideas all the time! But if you want to build a sustainable, effective consulting practice you need to find a way to enjoy the resistance. To embrace the fact that changing clients is hard.
+
 Changing clients is hard. They're primed to reject change, they're designed to be stable systems. As an outsider we need to first understand the real reason we're there and then find surprising ways to effect change.
 
 The archetype of the fool helps us navigate the internal/external role of the consultant. In this section we'll also explore why perhaps "solving problems" isn't the real role of the consultant in the first place.
@@ -79,7 +81,7 @@ Looking at the tree rings of a redwood tree you can see a kind of story told ove
 
 Just like the redwoods, every consultant is unique. Your personal story and history is written in the grain of your rings. There's no escaping who you are. But you can recognize and embrace the introspective work to understand your own ideas, perspective, strengths and yes flaws.
 
-My hope with this book is to give you some practice advice but also expand your way of looking at consulting and maybe, just maybe help you transform your practice. To help you build your own weird, unique practice that embraces your own grain.
+My hope with this book is to give you some practical advice but also expand your way of looking at consulting and maybe, just maybe help you transform your practice. To help you build your own weird, unique practice that embraces your own grain.
 
 Enjoy, **The Consultants' Grain**.
 
