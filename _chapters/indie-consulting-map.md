@@ -144,7 +144,7 @@ Here's where it starts to get fun. This is where that sparring idea comes in. Yo
 **Above the surface:**
 - Hopefully you've figured out some kind of distinctive opinion and perspective on your work by now. No! Don't turn it into positioning - but do turn it into a vibe essay (or 5). Show your thinking, get into the details. You're chasing **senior** clients and that requires exposing some vibes.
 - If you examine your relationship between time/energy/money closely enough you should be able to start saying no to the kind of work you were doing in phase 2 and 3. This will feel scary and painful - don't be afraid to move your threshold around a bit. Say no, then when cash gets tight start saying yes, then try saying no again a few months later. Iterate!
-- Leverage your communities and networks to have some honest financial conversations with other senior indies. This will give you the confience to charge 10x what you were charging when you first started - that will feel terrifying so you'll need some concrete examples, peers and support system to back you up.
+- Leverage your communities and networks to have some honest financial conversations with other senior indies. This will give you the confidence to charge 10x what you were charging when you first started - that will feel terrifying so you'll need some concrete examples, peers and support system to back you up.
 
 **Below the surface:**
 - Some deep existential questions might be setting in about now. Is this work really more interesting than taking that CMO role? Should I stick the course? Where does this path lead? Don't worry about the answers to these questions - the most important thing is to keep learning. Keep pushing on things that interest you.

@@ -13,7 +13,7 @@ Chaotic systems are often referenced in popular culture via the well-known butte
 
 The general principle with chaotic systems is that no matter how carefully you try and control the inputs, the outputs will always surprise you. This sounds a lot like the lead flow for my consulting business!
 
-*“Does the flap of a butterfly’s wings in Brazil (random act of marketing) set off a tornado in Texas (client lead reaching out to me)?”*.
+***“Does the flap of a butterfly’s wings in Brazil (random act of marketing) set off a tornado in Texas (client lead reaching out to me)?”***.
 
 After doing this for 9 years it’s still a surprise when and where leads come through - almost every time the feeling is *“why did this happen? Why now?”*.
 
@@ -99,7 +99,7 @@ Over the past two years I’ve been hosting invite-only dinner events. They usua
 
 Across all three of these approaches - **the key is to be the anchor of the network**. By being the anchor you gain an order of magnitude more recognition and exposure than merely attending someone else’s event or being a member in someone else’s slack. Being the anchor of a group of 10 is better than being a member of a group of 100 (though of course they’re not mutually exclusive!).
 
-## Strange communication - aka talking to your network
+## Strange communication - aka talking to (and with) your network
 
 It’s not enough to just have a network though. You need to talk to them for two key reasons:
 
@@ -114,6 +114,16 @@ So, listen, I’m gonna sound like a broken record, but the blog+newsletter comb
 > small b blogging. It’s a virtuous cycle of making interesting connections while also being a way to clarify and strengthen my own ideas. I’m not reaching a big audience by any measure but the direct impact and benefit is material.
 
 > Small b blogging is learning to write and think with the network. Small b blogging is writing content designed for small deliberate audiences and showing it to them. Small b blogging is deliberately chasing interesting ideas over pageviews and scale. An attempt at genuine connection vs the gloss and polish and mass market of most “content marketing”.
+
+A guide for developing a POV as you move through the various stages of your journey:
+
+| Phase | Platform | POV |
+|---|---|---|
+| 1 - Leaping | Social, blog, email udpates to friends | Personal story / journey, simply being visible |
+| 2 - Getting Started | Building audience, starting a newsletter | In the work, here's what I see |
+| 3 - Finding Stability | Consistent output, finding the others | Opinionated perspectives on the industry |
+| 4 - Finding Freedom | Writing things that get noticed | 20% beef |
+| 5 - Building Equity | Large audience, named newsletter | Quoted, appearing on podcasts |
 
 ## On butterflies and sea-gulls
 
@@ -136,8 +146,25 @@ What’s the story here? The lesson is that language is a virus. Design your cas
 - “Commerce and content”
 - “Hired a team of 10” 
 - “Interim CMO”
+- "Positioning work for an agency"
 
 These short phrases can sum up and signal so much to the right person at the right time - and you can use many of them at once. This is an ongoing project of listening to how people make intros for you - and noting the little phrases they use. How are people understanding and describing your work in the two-line email?
+
+## Projecting Seniority & Trust
+
+There's a huge difference between regular client leads for functional work, and senior client leads for strategic work. This distinction is the difference between a $10,000 content strategy and a $150,000 12 month advisory role supporting the content team.
+
+To get senior people to feel like they can reach out to you you need to project seniority and trust. How do you do that?
+
+Well seniority is just impact. So when you're discussing your work you need to focus not on what you did, but on what the impact of your work was.
+
+[insert example]
+
+Trust is about labels that we can rely on - whether it's places we worked, clients we worked with or projects we worked on. People like the story and these tend to be. Typically consultants have one or two trust totems that they rely on and fall back to for large portions of their career.
+
+For me, I typically have two: I worked at Google and I've consulted with the New York Times. Despite that being many years ago now it's the story that sticks in people's brains and it projects the right kind of seniority.
+
+Of course, if you're operating in a certain environment / industry or niche you'll want to try and select the trust totem that means the most for the people you're speaking to. I have a fellow indie consultant friend Elan Miller who has done a lot of brand positioning in the web3 and crypto space and has several high profile brands he can rely on.
 
 ## Reducing ambiguity using a capabilities deck
 
