@@ -6,15 +6,17 @@ layout: tsi-chapter
 
 Strategy & Stewardship
 
-Capacity building vs Problem Solving
+Concentric Context
 
-True frameworks
+Capacity building vs Problem Solving
 
 Weak ties & strong intros
 
 Narrative aircover
 
 Culture eats strategy for breakfast
+
+Consulting fast and slow
 
 Only let clients in the strategy door
 
