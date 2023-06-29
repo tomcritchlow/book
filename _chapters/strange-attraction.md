@@ -11,39 +11,27 @@ The Lorenz Attractor is a chaotic system - a strange attractor. It’s an elegan
 
 Chaotic systems are often referenced in popular culture via the well-known butterfly effect: *“Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?”*.
 
-The general principle with chaotic systems is that no matter how carefully you try and control the inputs, the outputs will always surprise you.
+The general principle with chaotic systems is that no matter how carefully you try and control the inputs, the outputs will always surprise you. This sounds a lot like the lead flow for my consulting business!
 
-This… **sounds a lot like the lead flow for my consulting business!**
+*“Does the flap of a butterfly’s wings in Brazil (random act of marketing) set off a tornado in Texas (client lead reaching out to me)?”*.
 
-After doing this for 4 years it’s still a surprise when and where leads come through - almost every time it’s *“why did this happen? Why now?”*.
+After doing this for 9 years it’s still a surprise when and where leads come through - almost every time the feeling is *“why did this happen? Why now?”*.
 
 But it doesn’t mean the whole thing is random! There’s a distinction between random systems and chaotic systems. If you look at the Lorenz Attractor you can tell it’s not random - there’s a system at work - the key with chaotic systems is that you can’t control for individual outputs, but you can shape the system at large.
 
-In this post I’m going to break down my personal system and philosophy for generating leads for my consulting practice - embracing the chaos of generating warm leads from real humans. It all boils down to controlling for system-level outputs not individual outcomes by focusing on the following:
+## Generating Clients Ready for Strategic Work
 
-- Focus on networks over networking
-- Articulate your work
-- Publish to be present
-
-I’ll explain, but first:
-
-## A quick primer on my work
-
-It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time[^four] (for example - think two days a week in the office for 18 months working across a variety of projects).
-
-[^four]: For a visual representation of my work see my post [four years on the road](https://tomcritchlow.com/2018/10/24/four-years/) ![](/images/4yearsrevenue.png)
-
-This means that - for me - I’m primarily concerned with **warm leads** for long term **strategic work**.
+Generating leads and client is one thing (hard enough!) but generating leads and clients ready for well-paid, strategic work is another thing entirely. In order to attract the kinds of clients that are ready for this kind of work you need **warm leads** for long term **strategic work**.
 
 It’s important for **leads to be warm** - because it’s hard to convince someone to spend $20k / month on a consulting contract without them already thinking they might spend money on consulting (and having some kind of budget earmarked!)
 
-It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts[^stewardship] (this helps you smooth revenue gaps and gain some predictability).
+It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts (this helps you smooth revenue gaps and gain some predictability).
 
-[^stewardship]: For more on how focus on retained strategy work see my post [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
+Getting to the point in your independent journey where you can generate these leads is incredibly rewarding - you'll find yourself working on interesting projects, getting well-paid and partnering with clients for long periods of time.
 
-This means that for me - I’m definitely optimizing for quality over quantity. 5-10 leads a year can keep me full up. And I think for many independents this will be and should be the case - optimizing for quantity will create a very different environment.
+Many people will try and sell you a "system" for managing contacts and organizing your leads but I think if you're questing for senior work it's more important to embrace the chaos of generating warm leads from real humans.  It all boils down to controlling for system-level outputs not individual outcomes by focusing on building a network, being visible and projecting seniority.
 
-The varieties of styles and approaches to independent work will surprise you so I won’t claim to say this is the only way to do things but it works for me so maybe you’ll learn something to add to your own approach.
+And if you're doing it right, it won't feel like a hustle trap or a drag - all you need is a business that generates 5-10 leads a year, closing 80% of them and working together on big strategic projects that last 18+ months.
 
 ## All my friends are strange attractors
 
@@ -227,6 +215,16 @@ Remember - all of this is my perspective, and there’s as many different ways o
 
 What's your experience building networks and leads for your consulting business?
 
---
 
-*Image credits: [Larry Bradley](http://www.stsci.edu/~lbradley/seminar/attractors.html), [Dan Quinn](https://commons.wikimedia.org/w/index.php?curid=29370723), [Life archives](http://images.google.com/hosted/life/2c99c2ba176c74ef.html)*
+
+
+
+<details>
+<summary>Discarded writing</summary>
+
+- Focus this piece specifically on building networks & being visible
+- Sustainable visibility
+
+Then weak ties and strong intros is about memetic potential of work specifically
+
+</details>
