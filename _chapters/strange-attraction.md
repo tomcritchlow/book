@@ -57,7 +57,12 @@ I imagine every relationship as some kind of Lorenz strange loop - with us at ti
 
 But people - humans - contacts - friends - is where I get all of my business from. All of the leads for my consulting business come from a small number of people. In fact, running the numbers 60% of my all-time consulting revenue can be traced to just four people:
 
-![](/images/revtable.png)
+| Person |  | Revenue |
+|---|---|---|
+| Lexi | Ex-colleague | 21.17% |
+| Tre | Industry contact I've known for 10+ years | 20.10% |
+| Ron | Ex-colleague  | 16.79% |
+| Luke | Industry contact & friend | 1.81% |
 
 What does this feel like in practice?
 
