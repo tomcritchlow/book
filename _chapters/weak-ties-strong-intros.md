@@ -6,15 +6,13 @@ tags: strategy
 og: https://tomcritchlow.com/images/weak-ties-og.png
 ---
 
-The biggest challenge independent consultants face is generating new clients. When you sit down and analyze your lead flow it’s hard to draw meaningful conclusions - there aren’t that many leads to begin with so you’ve got a small sample size - and many leads appear to land in your lap “out of thin air” with no obvious way to trace back the source...
+The biggest challenge independent consultants face is generating new clients. And the biggest misconception is that you can find clients directly. 
 
-So how do you generate more leads? In particular - how do you find good leads that are warm and primed for strategic work. In my previous post, [Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/), I talked about the power of your network and why warm leads for strategic work is important:
+It's understandable - the stress and anxiety of generating clients makes us try and reach for them directly. But this is like reaching for happiness directly - "Eleanor Roosevelt said, happiness is a byproduct of a life well lived.
 
->It’s important for **leads to be warm** - because it’s hard to convince someone to spend $20k / month on a consulting contract without them already thinking they might spend money on consulting (and having some kind of budget earmarked!)
->
->It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts.
+Instead we need to recognize that most of your leads are going to come through humans. But this can be frustrating to realize - when you sit down and analyze your lead flow it’s hard to draw meaningful conclusions - there aren’t that many leads to begin with so you’ve got a small sample size - and many leads appear to land in your lap “out of thin air” with no obvious way to trace back the source...
 
-Building a resilient and strong network around you is obviously important but in this post I’m going to argue that weak ties are often at work behind the scenes - and that weak ties are where opportunity scales beyond your immediate close network.
+So how do you generate more leads? In particular - how do you find good leads that are warm and primed for strategic work. Building a resilient and strong network around you is obviously important but in this chapter I’m going to argue that weak ties are often at work behind the scenes - and that weak ties are where opportunity scales beyond your immediate close network. Seeking new clients through nurturing your networks.
 
 This works because of two key ideas:
 
